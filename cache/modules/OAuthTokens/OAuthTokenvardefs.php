@@ -204,4 +204,5 @@
       'relationship_type' => 'one-to-many',
     ),
   ),
+  'custom_fields' => false,
 );
