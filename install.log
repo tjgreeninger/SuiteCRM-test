@@ -1,0 +1,937 @@
+
+2016-02-19 01:16:04...Begin System Check Process *************
+2016-02-19 01:16:04...XML Parsing Support Found
+2016-02-19 01:16:04...MBString Support Found
+2016-02-19 01:16:04...ZIP Support Found
+2016-02-19 01:16:04...ERROR:: The config override file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2016-02-19 01:16:04...ERROR:: The Custom Directory exists but is not writeable.  You may have to change permissions on it (chmod 766) or right click on it and uncheck the read only option, depending on your Operating System.  Please take the needed steps to make the file writeable.
+2016-02-19 01:16:04...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2016-02-19 01:16:04...<br>/var/www/html/SuiteCRM-7.5.1/cache/<br>/var/www/html/SuiteCRM-7.5.1/cache/images<br>/var/www/html/SuiteCRM-7.5.1/cache/layout<br>/var/www/html/SuiteCRM-7.5.1/cache/pdf<br>/var/www/html/SuiteCRM-7.5.1/cache/xml<br>/var/www/html/SuiteCRM-7.5.1/cache/include/javascript
+2016-02-19 01:16:04...ERROR:: Module directories and the files under them are not writeable.
+2016-02-19 01:16:04...ERROR: Upload directory is not writable.
+2016-02-19 01:16:04.../zip check passed
+2016-02-19 01:16:04...PCRE version check passed
+2016-02-19 01:16:04...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 01:16:04...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 01:16:04...Outputting HTML for System check
+2016-02-19 01:16:04...Errors were found *************
+2016-02-19 01:17:45...Begin System Check Process *************
+2016-02-19 01:17:45...XML Parsing Support Found
+2016-02-19 01:17:45...MBString Support Found
+2016-02-19 01:17:45...ZIP Support Found
+2016-02-19 01:17:45...ERROR:: The config override file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2016-02-19 01:17:45...ERROR:: The Custom Directory exists but is not writeable.  You may have to change permissions on it (chmod 766) or right click on it and uncheck the read only option, depending on your Operating System.  Please take the needed steps to make the file writeable.
+2016-02-19 01:17:45...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2016-02-19 01:17:45...<br>/var/www/html/SuiteCRM-7.5.1/cache/<br>/var/www/html/SuiteCRM-7.5.1/cache/images<br>/var/www/html/SuiteCRM-7.5.1/cache/layout<br>/var/www/html/SuiteCRM-7.5.1/cache/pdf<br>/var/www/html/SuiteCRM-7.5.1/cache/xml<br>/var/www/html/SuiteCRM-7.5.1/cache/include/javascript
+2016-02-19 01:17:45...ERROR:: Module directories and the files under them are not writeable.
+2016-02-19 01:17:45...ERROR: Upload directory is not writable.
+2016-02-19 01:17:45.../zip check passed
+2016-02-19 01:17:45...PCRE version check passed
+2016-02-19 01:17:45...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 01:17:45...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 01:17:45...Outputting HTML for System check
+2016-02-19 01:17:45...Errors were found *************
+2016-02-19 01:18:22...Begin System Check Process *************
+2016-02-19 01:18:22...XML Parsing Support Found
+2016-02-19 01:18:22...MBString Support Found
+2016-02-19 01:18:22...ZIP Support Found
+2016-02-19 01:18:22...ERROR:: The config override file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2016-02-19 01:18:22...ERROR:: The Custom Directory exists but is not writeable.  You may have to change permissions on it (chmod 766) or right click on it and uncheck the read only option, depending on your Operating System.  Please take the needed steps to make the file writeable.
+2016-02-19 01:18:22...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2016-02-19 01:18:22...<br>/var/www/html/SuiteCRM-7.5.1/cache/<br>/var/www/html/SuiteCRM-7.5.1/cache/images<br>/var/www/html/SuiteCRM-7.5.1/cache/layout<br>/var/www/html/SuiteCRM-7.5.1/cache/pdf<br>/var/www/html/SuiteCRM-7.5.1/cache/xml<br>/var/www/html/SuiteCRM-7.5.1/cache/include/javascript
+2016-02-19 01:18:22...ERROR:: Module directories and the files under them are not writeable.
+2016-02-19 01:18:22...ERROR: Upload directory is not writable.
+2016-02-19 01:18:22.../zip check passed
+2016-02-19 01:18:22...PCRE version check passed
+2016-02-19 01:18:22...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 01:18:22...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 01:18:22...Outputting HTML for System check
+2016-02-19 01:18:22...Errors were found *************
+2016-02-19 01:19:01...Begin System Check Process *************
+2016-02-19 01:19:01...XML Parsing Support Found
+2016-02-19 01:19:01...MBString Support Found
+2016-02-19 01:19:01...ZIP Support Found
+2016-02-19 01:19:01...ERROR:: The config override file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2016-02-19 01:19:01...ERROR:: The Custom Directory exists but is not writeable.  You may have to change permissions on it (chmod 766) or right click on it and uncheck the read only option, depending on your Operating System.  Please take the needed steps to make the file writeable.
+2016-02-19 01:19:01...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2016-02-19 01:19:01...<br>/var/www/html/SuiteCRM-7.5.1/cache/<br>/var/www/html/SuiteCRM-7.5.1/cache/images<br>/var/www/html/SuiteCRM-7.5.1/cache/layout<br>/var/www/html/SuiteCRM-7.5.1/cache/pdf<br>/var/www/html/SuiteCRM-7.5.1/cache/xml<br>/var/www/html/SuiteCRM-7.5.1/cache/include/javascript
+2016-02-19 01:19:01...ERROR:: Module directories and the files under them are not writeable.
+2016-02-19 01:19:01...ERROR: Upload directory is not writable.
+2016-02-19 01:19:01.../zip check passed
+2016-02-19 01:19:01...PCRE version check passed
+2016-02-19 01:19:01...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 01:19:01...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 01:19:01...Outputting HTML for System check
+2016-02-19 01:19:01...Errors were found *************
+2016-02-19 01:19:43...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 01:19:49...Begin System Check Process *************
+2016-02-19 01:19:49...XML Parsing Support Found
+2016-02-19 01:19:49...MBString Support Found
+2016-02-19 01:19:49...ZIP Support Found
+2016-02-19 01:19:49...ERROR:: The config override file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2016-02-19 01:19:49...ERROR:: The Custom Directory exists but is not writeable.  You may have to change permissions on it (chmod 766) or right click on it and uncheck the read only option, depending on your Operating System.  Please take the needed steps to make the file writeable.
+2016-02-19 01:19:49...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2016-02-19 01:19:49...<br>/var/www/html/SuiteCRM-7.5.1/cache/<br>/var/www/html/SuiteCRM-7.5.1/cache/images<br>/var/www/html/SuiteCRM-7.5.1/cache/layout<br>/var/www/html/SuiteCRM-7.5.1/cache/pdf<br>/var/www/html/SuiteCRM-7.5.1/cache/xml<br>/var/www/html/SuiteCRM-7.5.1/cache/include/javascript
+2016-02-19 01:19:49...ERROR:: Module directories and the files under them are not writeable.
+2016-02-19 01:19:49...ERROR: Upload directory is not writable.
+2016-02-19 01:19:49.../zip check passed
+2016-02-19 01:19:49...PCRE version check passed
+2016-02-19 01:19:49...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 01:19:49...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 01:19:49...Outputting HTML for System check
+2016-02-19 01:19:49...Errors were found *************
+2016-02-19 02:04:31...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:04:36...Begin System Check Process *************
+2016-02-19 02:04:36...XML Parsing Support Found
+2016-02-19 02:04:36...MBString Support Found
+2016-02-19 02:04:36...ZIP Support Found
+2016-02-19 02:04:36.../custom directory and subdirectory check passed
+2016-02-19 02:04:36...cache directory and subdirectory check passed
+2016-02-19 02:04:36.../module  directory and subdirectory check passed
+2016-02-19 02:04:36.../upload directory check passed
+2016-02-19 02:04:36.../zip check passed
+2016-02-19 02:04:36...PCRE version check passed
+2016-02-19 02:04:36...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:04:36...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 02:04:36...Outputting HTML for System check
+2016-02-19 02:04:36...No Errors were found *************
+2016-02-19 02:04:36...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:05:09...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:06:02...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:06:22...Begin DB Check Process *************
+2016-02-19 02:06:22...testing with mysql:mysqli
+2016-02-19 02:06:22...Basic form info is valid, continuing Process.
+2016-02-19 02:06:22...Testing user account...
+2016-02-19 02:06:22...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:06:22...Testing priviliged account...
+2016-02-19 02:06:22...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:06:22...DB not selected, will create suitecrm
+2016-02-19 02:06:22...ERROR:: Unable to check database version.
+2016-02-19 02:06:22...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:06:22..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:06:22..... Unable to check database version.
+2016-02-19 02:06:22...End DB Check Process *************
+2016-02-19 02:06:47...Begin DB Check Process *************
+2016-02-19 02:06:47...testing with mysql:mysqli
+2016-02-19 02:06:47...Basic form info is valid, continuing Process.
+2016-02-19 02:06:47...Testing user account...
+2016-02-19 02:06:47...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:06:47...Testing priviliged account...
+2016-02-19 02:06:47...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:06:47...DB not selected, will create suitecrm
+2016-02-19 02:06:47...ERROR:: Unable to check database version.
+2016-02-19 02:06:47...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:06:47..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:06:47..... Unable to check database version.
+2016-02-19 02:06:47...End DB Check Process *************
+2016-02-19 02:08:23...Begin DB Check Process *************
+2016-02-19 02:08:23...testing with mysql:mysqli
+2016-02-19 02:08:23...Basic form info is valid, continuing Process.
+2016-02-19 02:08:23...Testing user account...
+2016-02-19 02:08:23...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:08:23...Testing priviliged account...
+2016-02-19 02:08:23...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:08:23...DB not selected, will create suitecrm
+2016-02-19 02:08:23...ERROR:: Unable to check database version.
+2016-02-19 02:08:23...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:08:23..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:08:23..... Unable to check database version.
+2016-02-19 02:08:23...End DB Check Process *************
+2016-02-19 02:11:22...Begin DB Check Process *************
+2016-02-19 02:11:22...testing with mysql:mysqli
+2016-02-19 02:11:22...Basic form info is valid, continuing Process.
+2016-02-19 02:11:22...Testing user account...
+2016-02-19 02:11:22...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:11:22...Testing priviliged account...
+2016-02-19 02:11:22...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:11:22...DB not selected, will create suitecrm
+2016-02-19 02:11:22...ERROR:: Unable to check database version.
+2016-02-19 02:11:22...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:11:22..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:11:22..... Unable to check database version.
+2016-02-19 02:11:22...End DB Check Process *************
+2016-02-19 02:11:36...Begin DB Check Process *************
+2016-02-19 02:11:36...testing with mysql:mysqli
+2016-02-19 02:11:36...Basic form info is valid, continuing Process.
+2016-02-19 02:11:36...Testing user account...
+2016-02-19 02:11:36...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:11:36...Testing priviliged account...
+2016-02-19 02:11:36...Connection made using  host: local host, usr: tjgreeninger
+2016-02-19 02:11:36...DB not selected, will create suitecrm
+2016-02-19 02:11:36...ERROR:: Unable to check database version.
+2016-02-19 02:11:36...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:11:36..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:11:36..... Unable to check database version.
+2016-02-19 02:11:36...End DB Check Process *************
+2016-02-19 02:13:49...Begin DB Check Process *************
+2016-02-19 02:13:49...testing with mysql:mysqli
+2016-02-19 02:13:49...Basic form info is valid, continuing Process.
+2016-02-19 02:13:49...Testing user account...
+2016-02-19 02:13:49...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:13:49...Testing priviliged account...
+2016-02-19 02:13:49...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:13:49...DB not selected, will create flashsca_suitecrm
+2016-02-19 02:13:49...ERROR:: Unable to check database version.
+2016-02-19 02:13:49...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:13:49..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:13:49..... Unable to check database version.
+2016-02-19 02:13:49...End DB Check Process *************
+2016-02-19 02:13:59...Begin DB Check Process *************
+2016-02-19 02:13:59...testing with mysql:mysqli
+2016-02-19 02:13:59...Basic form info is valid, continuing Process.
+2016-02-19 02:13:59...Testing user account...
+2016-02-19 02:13:59...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:13:59...Testing priviliged account...
+2016-02-19 02:13:59...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:13:59...DB not selected, will create suitecrm
+2016-02-19 02:13:59...ERROR:: Unable to check database version.
+2016-02-19 02:13:59...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:13:59..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:13:59..... Unable to check database version.
+2016-02-19 02:13:59...End DB Check Process *************
+2016-02-19 02:14:53...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:14:59...Begin System Check Process *************
+2016-02-19 02:14:59...XML Parsing Support Found
+2016-02-19 02:14:59...MBString Support Found
+2016-02-19 02:14:59...ZIP Support Found
+2016-02-19 02:14:59.../custom directory and subdirectory check passed
+2016-02-19 02:14:59...cache directory and subdirectory check passed
+2016-02-19 02:14:59.../module  directory and subdirectory check passed
+2016-02-19 02:14:59.../upload directory check passed
+2016-02-19 02:14:59.../zip check passed
+2016-02-19 02:14:59...PCRE version check passed
+2016-02-19 02:14:59...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:14:59...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 02:14:59...Outputting HTML for System check
+2016-02-19 02:14:59...No Errors were found *************
+2016-02-19 02:14:59...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:15:02...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:15:38...Begin DB Check Process *************
+2016-02-19 02:15:38...testing with mysql:mysqli
+2016-02-19 02:15:38...Basic form info is valid, continuing Process.
+2016-02-19 02:15:38...Testing user account...
+2016-02-19 02:15:38...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:15:38...Testing priviliged account...
+2016-02-19 02:15:38...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:15:38...DB not selected, will create SuiteCRM
+2016-02-19 02:15:38...ERROR:: Unable to check database version.
+2016-02-19 02:15:38...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:15:38..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:15:38..... Unable to check database version.
+2016-02-19 02:15:38...End DB Check Process *************
+2016-02-19 02:16:02...Begin DB Check Process *************
+2016-02-19 02:16:02...testing with mysql:mysqli
+2016-02-19 02:16:02...Basic form info is valid, continuing Process.
+2016-02-19 02:16:02...Testing user account...
+2016-02-19 02:16:02...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:02...Testing priviliged account...
+2016-02-19 02:16:02...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:16:02...DB not selected, will create SuiteCRM
+2016-02-19 02:16:02...ERROR:: Unable to check database version.
+2016-02-19 02:16:02...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:16:02..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:02..... Unable to check database version.
+2016-02-19 02:16:02...End DB Check Process *************
+2016-02-19 02:16:11...Begin DB Check Process *************
+2016-02-19 02:16:11...testing with mysql:mysqli
+2016-02-19 02:16:11...Basic form info is valid, continuing Process.
+2016-02-19 02:16:11...Testing user account...
+2016-02-19 02:16:11...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:11...Testing priviliged account...
+2016-02-19 02:16:11...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:16:11...DB not selected, will create SuiteCRM
+2016-02-19 02:16:11...ERROR:: Unable to check database version.
+2016-02-19 02:16:11...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:16:11..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:11..... Unable to check database version.
+2016-02-19 02:16:11...End DB Check Process *************
+2016-02-19 02:16:23...Begin DB Check Process *************
+2016-02-19 02:16:23...testing with mysql:mysqli
+2016-02-19 02:16:23...Basic form info is valid, continuing Process.
+2016-02-19 02:16:23...Testing user account...
+2016-02-19 02:16:23...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:23...Testing priviliged account...
+2016-02-19 02:16:23...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:16:23...DB not selected, will create SuiteCRM
+2016-02-19 02:16:23...ERROR:: Unable to check database version.
+2016-02-19 02:16:23...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:16:23..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:23..... Unable to check database version.
+2016-02-19 02:16:23...End DB Check Process *************
+2016-02-19 02:16:44...Begin DB Check Process *************
+2016-02-19 02:16:44...testing with mysql:mysqli
+2016-02-19 02:16:44...Basic form info is valid, continuing Process.
+2016-02-19 02:16:44...Testing user account...
+2016-02-19 02:16:44...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:44...Testing priviliged account...
+2016-02-19 02:16:44...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:16:44...DB not selected, will create SuiteCRM
+2016-02-19 02:16:44...ERROR:: Unable to check database version.
+2016-02-19 02:16:44...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:16:44..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:16:44..... Unable to check database version.
+2016-02-19 02:16:44...End DB Check Process *************
+2016-02-19 02:40:19...Begin DB Check Process *************
+2016-02-19 02:40:19...testing with mysql:mysqli
+2016-02-19 02:40:19...Basic form info is valid, continuing Process.
+2016-02-19 02:40:19...Testing user account...
+2016-02-19 02:40:19...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:40:19...Testing priviliged account...
+2016-02-19 02:40:19...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:40:19...DB not selected, will create SuiteCRM
+2016-02-19 02:40:19...ERROR:: Unable to check database version.
+2016-02-19 02:40:19...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:40:19..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:40:19..... Unable to check database version.
+2016-02-19 02:40:19...End DB Check Process *************
+2016-02-19 02:41:34...Begin DB Check Process *************
+2016-02-19 02:41:34...testing with mysql:mysqli
+2016-02-19 02:41:34...Basic form info is valid, continuing Process.
+2016-02-19 02:41:34...Testing user account...
+2016-02-19 02:41:34...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:41:34...Testing priviliged account...
+2016-02-19 02:41:34...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:41:34...DB not selected, will create html
+2016-02-19 02:41:34...ERROR:: Unable to check database version.
+2016-02-19 02:41:34...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:41:34..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:41:34..... Unable to check database version.
+2016-02-19 02:41:34...End DB Check Process *************
+2016-02-19 02:43:36...Begin DB Check Process *************
+2016-02-19 02:43:36...testing with mysql:mysqli
+2016-02-19 02:43:36...Basic form info is valid, continuing Process.
+2016-02-19 02:43:36...Testing user account...
+2016-02-19 02:43:41...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:43:41...Testing priviliged account...
+2016-02-19 02:43:41...Connection made using  host: localhost8080, usr: tjgreeninger
+2016-02-19 02:43:41...DB not selected, will create SuiteCRM
+2016-02-19 02:43:41...ERROR:: Unable to check database version.
+2016-02-19 02:43:41...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:43:41..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:43:41..... Unable to check database version.
+2016-02-19 02:43:41...End DB Check Process *************
+2016-02-19 02:43:51...Begin DB Check Process *************
+2016-02-19 02:43:51...testing with mysql:mysqli
+2016-02-19 02:43:51...Basic form info is valid, continuing Process.
+2016-02-19 02:43:51...Testing user account...
+2016-02-19 02:43:51...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:43:51...Testing priviliged account...
+2016-02-19 02:43:51...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:43:51...DB not selected, will create SuiteCRM
+2016-02-19 02:43:51...ERROR:: Unable to check database version.
+2016-02-19 02:43:51...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:43:51..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:43:51..... Unable to check database version.
+2016-02-19 02:43:51...End DB Check Process *************
+2016-02-19 02:44:18...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:44:25...Begin System Check Process *************
+2016-02-19 02:44:25...XML Parsing Support Found
+2016-02-19 02:44:25...MBString Support Found
+2016-02-19 02:44:25...ZIP Support Found
+2016-02-19 02:44:25.../custom directory and subdirectory check passed
+2016-02-19 02:44:25...cache directory and subdirectory check passed
+2016-02-19 02:44:25.../module  directory and subdirectory check passed
+2016-02-19 02:44:25.../upload directory check passed
+2016-02-19 02:44:25.../zip check passed
+2016-02-19 02:44:25...PCRE version check passed
+2016-02-19 02:44:25...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:44:25...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 02:44:25...Outputting HTML for System check
+2016-02-19 02:44:25...No Errors were found *************
+2016-02-19 02:44:25...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:44:30...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:44:39...Begin DB Check Process *************
+2016-02-19 02:44:39...testing with mysql:mysqli
+2016-02-19 02:44:39...Basic form info is valid, continuing Process.
+2016-02-19 02:44:39...Testing user account...
+2016-02-19 02:44:39...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:44:39...Testing priviliged account...
+2016-02-19 02:44:39...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:44:39...DB not selected, will create SuiteCRM
+2016-02-19 02:44:39...ERROR:: Unable to check database version.
+2016-02-19 02:44:39...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:44:39..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:44:39..... Unable to check database version.
+2016-02-19 02:44:39...End DB Check Process *************
+2016-02-19 02:46:32...Begin DB Check Process *************
+2016-02-19 02:46:32...testing with mysql:mysqli
+2016-02-19 02:46:32...Basic form info is valid, continuing Process.
+2016-02-19 02:46:32...Testing user account...
+2016-02-19 02:46:32...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:46:32...Testing priviliged account...
+2016-02-19 02:46:32...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:46:32...DB not selected, will create SuiteCRM
+2016-02-19 02:46:32...ERROR:: Unable to check database version.
+2016-02-19 02:46:32...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:46:32..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:46:32..... Unable to check database version.
+2016-02-19 02:46:32...End DB Check Process *************
+2016-02-19 02:48:00...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:48:24...Begin DB Check Process *************
+2016-02-19 02:48:24...testing with mysql:mysqli
+2016-02-19 02:48:24...Basic form info is valid, continuing Process.
+2016-02-19 02:48:24...Testing user account...
+2016-02-19 02:48:24...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:48:24...Testing priviliged account...
+2016-02-19 02:48:24...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:48:24...DB not selected, will create SuiteCRM
+2016-02-19 02:48:24...ERROR:: Unable to check database version.
+2016-02-19 02:48:24...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:48:24..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:48:24..... Unable to check database version.
+2016-02-19 02:48:24...End DB Check Process *************
+2016-02-19 02:49:42...Begin DB Check Process *************
+2016-02-19 02:49:42...testing with mysql:mysqli
+2016-02-19 02:49:42...Basic form info is valid, continuing Process.
+2016-02-19 02:49:42...Testing user account...
+2016-02-19 02:49:42...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:49:42...Testing priviliged account...
+2016-02-19 02:49:42...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:49:42...DB not selected, will create SuiteCRM
+2016-02-19 02:49:42...ERROR:: Unable to check database version.
+2016-02-19 02:49:42...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:49:42..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:49:42..... Unable to check database version.
+2016-02-19 02:49:42...End DB Check Process *************
+2016-02-19 02:49:44...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:49:58...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:50:35...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:50:38...Begin System Check Process *************
+2016-02-19 02:50:38...XML Parsing Support Found
+2016-02-19 02:50:38...MBString Support Found
+2016-02-19 02:50:38...ZIP Support Found
+2016-02-19 02:50:38.../custom directory and subdirectory check passed
+2016-02-19 02:50:38...cache directory and subdirectory check passed
+2016-02-19 02:50:38.../module  directory and subdirectory check passed
+2016-02-19 02:50:38.../upload directory check passed
+2016-02-19 02:50:38.../zip check passed
+2016-02-19 02:50:38...PCRE version check passed
+2016-02-19 02:50:38...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:50:38...php.ini location found. /etc/php5/apache2/php.ini
+2016-02-19 02:50:38...Outputting HTML for System check
+2016-02-19 02:50:38...No Errors were found *************
+2016-02-19 02:50:38...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:50:40...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:51:02...Begin DB Check Process *************
+2016-02-19 02:51:02...testing with mysql:mysqli
+2016-02-19 02:51:02...Basic form info is valid, continuing Process.
+2016-02-19 02:51:02...Testing user account...
+2016-02-19 02:51:02...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:51:02...Testing priviliged account...
+2016-02-19 02:51:02...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:51:02...DB not selected, will create suitecrm
+2016-02-19 02:51:02...ERROR:: Unable to check database version.
+2016-02-19 02:51:02...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:51:02..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:51:02..... Unable to check database version.
+2016-02-19 02:51:02...End DB Check Process *************
+2016-02-19 02:51:11...Begin DB Check Process *************
+2016-02-19 02:51:11...testing with mysql:mysqli
+2016-02-19 02:51:11...Basic form info is valid, continuing Process.
+2016-02-19 02:51:11...Testing user account...
+2016-02-19 02:51:11...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:51:11...Testing priviliged account...
+2016-02-19 02:51:11...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:51:11...DB not selected, will create suitecrm
+2016-02-19 02:51:11...ERROR:: Unable to check database version.
+2016-02-19 02:51:11...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:51:11..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:51:11..... Unable to check database version.
+2016-02-19 02:51:11...End DB Check Process *************
+2016-02-19 02:52:15...Begin DB Check Process *************
+2016-02-19 02:52:15...testing with mysql:mysqli
+2016-02-19 02:52:15...Basic form info is valid, continuing Process.
+2016-02-19 02:52:15...Testing user account...
+2016-02-19 02:52:15...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:52:15...Testing priviliged account...
+2016-02-19 02:52:15...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:52:15...DB not selected, will create suitecrm
+2016-02-19 02:52:15...ERROR:: Unable to check database version.
+2016-02-19 02:52:15...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:52:15..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:52:15..... Unable to check database version.
+2016-02-19 02:52:15...End DB Check Process *************
+2016-02-19 02:58:50...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:58:53...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 02:58:56...Begin DB Check Process *************
+2016-02-19 02:58:56...testing with mysql:mysqli
+2016-02-19 02:58:56...Basic form info is valid, continuing Process.
+2016-02-19 02:58:56...Testing user account...
+2016-02-19 02:58:56...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:58:56...Testing priviliged account...
+2016-02-19 02:58:56...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 02:58:56...DB not selected, will create suitecrm
+2016-02-19 02:58:56...ERROR:: Unable to check database version.
+2016-02-19 02:58:56...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 02:58:56..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 02:58:56..... Unable to check database version.
+2016-02-19 02:58:56...End DB Check Process *************
+2016-02-19 03:02:14...Begin DB Check Process *************
+2016-02-19 03:02:14...testing with mysql:mysqli
+2016-02-19 03:02:14...Basic form info is valid, continuing Process.
+2016-02-19 03:02:14...Testing user account...
+2016-02-19 03:02:14...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:02:14...Testing priviliged account...
+2016-02-19 03:02:14...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 03:02:14...DB not selected, will create suitecrm
+2016-02-19 03:02:14...ERROR:: Unable to check database version.
+2016-02-19 03:02:14...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:02:14..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:02:14..... Unable to check database version.
+2016-02-19 03:02:14...End DB Check Process *************
+2016-02-19 03:02:52...Begin DB Check Process *************
+2016-02-19 03:02:52...testing with mysql:mysqli
+2016-02-19 03:02:52...Basic form info is valid, continuing Process.
+2016-02-19 03:02:52...Testing user account...
+2016-02-19 03:02:52...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:02:52...Testing priviliged account...
+2016-02-19 03:02:52...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:02:52...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:02:52..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:02:52...End DB Check Process *************
+2016-02-19 03:03:04...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 03:03:05...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 03:03:09...Begin DB Check Process *************
+2016-02-19 03:03:09...testing with mysql:mysqli
+2016-02-19 03:03:09...Basic form info is valid, continuing Process.
+2016-02-19 03:03:09...Testing user account...
+2016-02-19 03:03:09...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:09...Testing priviliged account...
+2016-02-19 03:03:09...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:09...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:03:09..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:09...End DB Check Process *************
+2016-02-19 03:03:16...Begin DB Check Process *************
+2016-02-19 03:03:16...testing with mysql:mysqli
+2016-02-19 03:03:16...Basic form info is valid, continuing Process.
+2016-02-19 03:03:16...Testing user account...
+2016-02-19 03:03:16...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:16...Testing priviliged account...
+2016-02-19 03:03:16...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 03:03:16...DB not selected, will create suitecrm
+2016-02-19 03:03:16...ERROR:: Unable to check database version.
+2016-02-19 03:03:16...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:03:16..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:16..... Unable to check database version.
+2016-02-19 03:03:16...End DB Check Process *************
+2016-02-19 03:03:26...Begin DB Check Process *************
+2016-02-19 03:03:26...testing with mysql:mysqli
+2016-02-19 03:03:26...Basic form info is valid, continuing Process.
+2016-02-19 03:03:26...Testing user account...
+2016-02-19 03:03:26...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:26...Testing priviliged account...
+2016-02-19 03:03:26...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:26...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:03:26..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:03:26...End DB Check Process *************
+2016-02-19 03:04:04...Begin DB Check Process *************
+2016-02-19 03:04:04...testing with mysql:mysqli
+2016-02-19 03:04:04...Basic form info is valid, continuing Process.
+2016-02-19 03:04:04...Testing user account...
+2016-02-19 03:04:04...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:04:04...Testing priviliged account...
+2016-02-19 03:04:04...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:04:04...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:04:04..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:04:04...End DB Check Process *************
+2016-02-19 03:04:17...Begin DB Check Process *************
+2016-02-19 03:04:17...testing with mysql:mysqli
+2016-02-19 03:04:17...Basic form info is valid, continuing Process.
+2016-02-19 03:04:17...Testing user account...
+2016-02-19 03:04:17...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:04:17...Testing priviliged account...
+2016-02-19 03:04:17...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:04:17...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:04:17..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:04:17...End DB Check Process *************
+2016-02-19 03:06:47...Begin DB Check Process *************
+2016-02-19 03:06:47...testing with mysql:mysqli
+2016-02-19 03:06:47...Basic form info is valid, continuing Process.
+2016-02-19 03:06:47...Testing user account...
+2016-02-19 03:06:47...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:06:47...Testing priviliged account...
+2016-02-19 03:06:47...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:06:47...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:06:47..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:06:47...End DB Check Process *************
+2016-02-19 03:07:23...Begin DB Check Process *************
+2016-02-19 03:07:23...testing with mysql:mysqli
+2016-02-19 03:07:23...Basic form info is valid, continuing Process.
+2016-02-19 03:07:23...Testing user account...
+2016-02-19 03:07:23...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:07:23...Testing priviliged account...
+2016-02-19 03:07:23...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:07:23...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:07:23..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:07:23...End DB Check Process *************
+2016-02-19 03:08:43...Begin DB Check Process *************
+2016-02-19 03:08:43...testing with mysql:mysqli
+2016-02-19 03:08:43...Basic form info is valid, continuing Process.
+2016-02-19 03:08:43...Testing user account...
+2016-02-19 03:08:43...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:08:43...Testing priviliged account...
+2016-02-19 03:08:43...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:08:43...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:08:43..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:08:43...End DB Check Process *************
+2016-02-19 03:10:03...Begin DB Check Process *************
+2016-02-19 03:10:03...testing with mysql:mysqli
+2016-02-19 03:10:03...Basic form info is valid, continuing Process.
+2016-02-19 03:10:03...Testing user account...
+2016-02-19 03:10:03...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:10:03...Testing priviliged account...
+2016-02-19 03:10:03...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:10:03...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:10:03..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:10:03...End DB Check Process *************
+2016-02-19 03:13:06...Begin DB Check Process *************
+2016-02-19 03:13:06...testing with mysql:mysqli
+2016-02-19 03:13:06...Basic form info is valid, continuing Process.
+2016-02-19 03:13:06...Testing user account...
+2016-02-19 03:13:06...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:13:06...Testing priviliged account...
+2016-02-19 03:13:06...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 03:13:06...DB not selected, will create suitecrm
+2016-02-19 03:13:06...ERROR:: Unable to check database version.
+2016-02-19 03:13:06...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:13:06..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:13:06..... Unable to check database version.
+2016-02-19 03:13:06...End DB Check Process *************
+2016-02-19 03:13:12...Begin DB Check Process *************
+2016-02-19 03:13:12...testing with mysql:mysqli
+2016-02-19 03:13:12...Basic form info is valid, continuing Process.
+2016-02-19 03:13:12...Testing user account...
+2016-02-19 03:13:12...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:13:12...Testing priviliged account...
+2016-02-19 03:13:12...Connection made using  host: localhost, usr: admin
+2016-02-19 03:13:12...DB not selected, will create suitecrm
+2016-02-19 03:13:12...ERROR:: Unable to check database version.
+2016-02-19 03:13:12...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:13:12..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:13:12..... Unable to check database version.
+2016-02-19 03:13:12...End DB Check Process *************
+2016-02-19 03:13:26...Begin DB Check Process *************
+2016-02-19 03:13:26...testing with mysql:mysqli
+2016-02-19 03:13:26...Basic form info is valid, continuing Process.
+2016-02-19 03:13:26...Testing user account...
+2016-02-19 03:13:26...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:13:26...Testing priviliged account...
+2016-02-19 03:13:26...Connection made using  host: localhost, usr: tjgreeninger
+2016-02-19 03:13:26...DB not selected, will create suitecrm
+2016-02-19 03:13:26...ERROR:: Unable to check database version.
+2016-02-19 03:13:26...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-02-19 03:13:26..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-02-19 03:13:26..... Unable to check database version.
+2016-02-19 03:13:26...End DB Check Process *************
+2016-02-19 03:13:50...Begin DB Check Process *************
+2016-02-19 03:13:50...testing with mysql:mysqli
+2016-02-19 03:13:50...Basic form info is valid, continuing Process.
+2016-02-19 03:13:50...Testing user account...
+2016-02-19 03:13:50...Connection made using  host: localhost, usr: root
+2016-02-19 03:13:50...Testing priviliged account...
+2016-02-19 03:13:50...Connection made using  host: localhost, usr: root
+2016-02-19 03:13:50...DB not selected, will create suitecrm
+2016-02-19 03:13:50...Passed DB install check
+2016-02-19 03:13:50...SUCCESS:: no errors detected!
+2016-02-19 03:13:50...End DB Check Process *************
+2016-02-19 03:13:50...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 03:14:16...Begin DB Check Process *************
+2016-02-19 03:14:16...testing with mysql:mysqli
+2016-02-19 03:14:16...Basic form info is valid, continuing Process.
+2016-02-19 03:14:16...Testing user account...
+2016-02-19 03:14:16...Connection made using  host: localhost, usr: root
+2016-02-19 03:14:16...Testing priviliged account...
+2016-02-19 03:14:16...Connection made using  host: localhost, usr: root
+2016-02-19 03:14:16...DB not selected, will create suitecrm
+2016-02-19 03:14:16...Passed DB install check
+2016-02-19 03:14:16...SUCCESS:: no errors detected!
+2016-02-19 03:14:16...End DB Check Process *************
+2016-02-19 03:14:16...installerHook: Could not find custom/install/install_hooks.php
+2016-02-19 03:14:16...calling handleSugarConfig()
+2016-02-19 03:14:16...calling handleHtaccess()
+2016-02-19 03:14:16...calling handleDbCreateDatabase()
+2016-02-19 03:14:17...looping through all the Beans and create their tables
+2016-02-19 03:14:17...processing table acl_actions
+2016-02-19 03:14:17...creating table acl_actions
+2016-02-19 03:14:17...creating Relationship Meta for ACLAction
+2016-02-19 03:14:17...processing table acl_roles
+2016-02-19 03:14:17...creating table acl_roles
+2016-02-19 03:14:17...creating Relationship Meta for ACLRole
+2016-02-19 03:14:17...processing table relationships
+2016-02-19 03:14:17...creating table relationships
+2016-02-19 03:14:17...creating Relationship Meta for Relationship
+2016-02-19 03:14:17...processing table leads
+2016-02-19 03:14:17...creating table leads
+2016-02-19 03:14:17...creating Relationship Meta for Lead
+2016-02-19 03:14:18...processing table cases
+2016-02-19 03:14:18...creating table cases
+2016-02-19 03:14:18...creating Relationship Meta for Case
+2016-02-19 03:14:18...processing table bugs
+2016-02-19 03:14:18...creating table bugs
+2016-02-19 03:14:18...creating Relationship Meta for Bug
+2016-02-19 03:14:18...processing table users
+2016-02-19 03:14:18...creating table users
+2016-02-19 03:14:18...creating Relationship Meta for User
+2016-02-19 03:14:18...processing table campaign_log
+2016-02-19 03:14:18...creating table campaign_log
+2016-02-19 03:14:18...creating Relationship Meta for CampaignLog
+2016-02-19 03:14:18...processing table project
+2016-02-19 03:14:18...creating table project
+2016-02-19 03:14:18...creating Relationship Meta for Project
+2016-02-19 03:14:18...processing table project_task
+2016-02-19 03:14:18...creating table project_task
+2016-02-19 03:14:18...creating Relationship Meta for ProjectTask
+2016-02-19 03:14:18...processing table campaigns
+2016-02-19 03:14:19...creating table campaigns
+2016-02-19 03:14:19...creating Relationship Meta for Campaign
+2016-02-19 03:14:19...processing table prospect_lists
+2016-02-19 03:14:19...creating table prospect_lists
+2016-02-19 03:14:19...creating Relationship Meta for ProspectList
+2016-02-19 03:14:19...processing table prospects
+2016-02-19 03:14:19...creating table prospects
+2016-02-19 03:14:19...creating Relationship Meta for Prospect
+2016-02-19 03:14:19...processing table email_marketing
+2016-02-19 03:14:19...creating table email_marketing
+2016-02-19 03:14:19...creating Relationship Meta for EmailMarketing
+2016-02-19 03:14:19...processing table campaign_trkrs
+2016-02-19 03:14:19...creating table campaign_trkrs
+2016-02-19 03:14:19...creating Relationship Meta for CampaignTracker
+2016-02-19 03:14:19...processing table releases
+2016-02-19 03:14:19...creating table releases
+2016-02-19 03:14:19...creating Relationship Meta for Release
+2016-02-19 03:14:19...processing table emailman
+2016-02-19 03:14:19...creating table emailman
+2016-02-19 03:14:19...creating Relationship Meta for EmailMan
+2016-02-19 03:14:19...processing table schedulers
+2016-02-19 03:14:19...creating table schedulers
+2016-02-19 03:14:19...creating Relationship Meta for Scheduler
+2016-02-19 03:14:19...processing table job_queue
+2016-02-19 03:14:19...creating table job_queue
+2016-02-19 03:14:19...creating Relationship Meta for SchedulersJob
+2016-02-19 03:14:19...processing table contacts
+2016-02-19 03:14:19...creating table contacts
+2016-02-19 03:14:19...creating Relationship Meta for Contact
+2016-02-19 03:14:20...processing table accounts
+2016-02-19 03:14:20...creating table accounts
+2016-02-19 03:14:20...creating Relationship Meta for Account
+2016-02-19 03:14:20...processing table opportunities
+2016-02-19 03:14:20...creating table opportunities
+2016-02-19 03:14:20...creating Relationship Meta for Opportunity
+2016-02-19 03:14:20...processing table email_templates
+2016-02-19 03:14:20...creating table email_templates
+2016-02-19 03:14:20...creating Relationship Meta for EmailTemplate
+2016-02-19 03:14:20...processing table notes
+2016-02-19 03:14:20...creating table notes
+2016-02-19 03:14:20...creating Relationship Meta for Note
+2016-02-19 03:14:20...processing table calls
+2016-02-19 03:14:20...creating table calls
+2016-02-19 03:14:20...creating Relationship Meta for Call
+2016-02-19 03:14:20...processing table emails
+2016-02-19 03:14:21...creating table emails
+2016-02-19 03:14:21...creating Relationship Meta for Email
+2016-02-19 03:14:21...processing table meetings
+2016-02-19 03:14:21...creating table meetings
+2016-02-19 03:14:21...creating Relationship Meta for Meeting
+2016-02-19 03:14:21...processing table tasks
+2016-02-19 03:14:21...creating table tasks
+2016-02-19 03:14:21...creating Relationship Meta for Task
+2016-02-19 03:14:21...processing table users
+2016-02-19 03:14:21...processing table users
+2016-02-19 03:14:21...processing table currencies
+2016-02-19 03:14:21...creating table currencies
+2016-02-19 03:14:21...creating Relationship Meta for Currency
+2016-02-19 03:14:21...processing table tracker
+2016-02-19 03:14:21...creating table tracker
+2016-02-19 03:14:21...creating Relationship Meta for Tracker
+2016-02-19 03:14:21...processing table import_maps
+2016-02-19 03:14:21...creating table import_maps
+2016-02-19 03:14:21...creating Relationship Meta for ImportMap
+2016-02-19 03:14:21...processing table users_last_import
+2016-02-19 03:14:21...creating table users_last_import
+2016-02-19 03:14:21...creating Relationship Meta for UsersLastImport
+2016-02-19 03:14:21...processing table config
+2016-02-19 03:14:21...creating table config
+2016-02-19 03:14:21...creating Relationship Meta for Administration
+2016-02-19 03:14:21...processing table upgrade_history
+2016-02-19 03:14:21...creating table upgrade_history
+2016-02-19 03:14:21...creating Relationship Meta for UpgradeHistory
+2016-02-19 03:14:21...processing table vcals
+2016-02-19 03:14:21...creating table vcals
+2016-02-19 03:14:21...creating Relationship Meta for vCal
+2016-02-19 03:14:21...processing table alerts
+2016-02-19 03:14:21...creating table alerts
+2016-02-19 03:14:21...creating Relationship Meta for Alert
+2016-02-19 03:14:21...processing table versions
+2016-02-19 03:14:21...creating table versions
+2016-02-19 03:14:21...creating Relationship Meta for Version
+2016-02-19 03:14:21...processing table roles
+2016-02-19 03:14:21...creating table roles
+2016-02-19 03:14:21...creating Relationship Meta for Role
+2016-02-19 03:14:21...processing table documents
+2016-02-19 03:14:21...creating table documents
+2016-02-19 03:14:21...creating Relationship Meta for Document
+2016-02-19 03:14:21...processing table document_revisions
+2016-02-19 03:14:21...creating table document_revisions
+2016-02-19 03:14:21...creating Relationship Meta for DocumentRevision
+2016-02-19 03:14:21...processing table fields_meta_data
+2016-02-19 03:14:21...creating table fields_meta_data
+2016-02-19 03:14:21...creating Relationship Meta for FieldsMetaData
+2016-02-19 03:14:21...processing table inbound_email
+2016-02-19 03:14:21...creating table inbound_email
+2016-02-19 03:14:21...creating Relationship Meta for InboundEmail
+2016-02-19 03:14:22...processing table saved_search
+2016-02-19 03:14:22...creating table saved_search
+2016-02-19 03:14:22...creating Relationship Meta for SavedSearch
+2016-02-19 03:14:22...processing table user_preferences
+2016-02-19 03:14:22...creating table user_preferences
+2016-02-19 03:14:22...creating Relationship Meta for UserPreference
+2016-02-19 03:14:22...processing table 
+2016-02-19 03:14:22...processing table email_addresses
+2016-02-19 03:14:22...creating table email_addresses
+2016-02-19 03:14:22...creating Relationship Meta for EmailAddress
+2016-02-19 03:14:22...processing table emails_text
+2016-02-19 03:14:22...creating table emails_text
+2016-02-19 03:14:22...creating Relationship Meta for EmailText
+2016-02-19 03:14:22...processing table sugarfeed
+2016-02-19 03:14:22...creating table sugarfeed
+2016-02-19 03:14:22...creating Relationship Meta for SugarFeed
+2016-02-19 03:14:22...processing table eapm
+2016-02-19 03:14:22...creating table eapm
+2016-02-19 03:14:22...creating Relationship Meta for EAPM
+2016-02-19 03:14:22...processing table oauth_consumer
+2016-02-19 03:14:22...creating table oauth_consumer
+2016-02-19 03:14:22...creating Relationship Meta for OAuthKey
+2016-02-19 03:14:22...processing table oauth_tokens
+2016-02-19 03:14:22...creating table oauth_tokens
+2016-02-19 03:14:22...creating Relationship Meta for OAuthToken
+2016-02-19 03:14:22...processing table am_projecttemplates
+2016-02-19 03:14:22...creating table am_projecttemplates
+2016-02-19 03:14:22...creating Relationship Meta for AM_ProjectTemplates
+2016-02-19 03:14:22...processing table am_tasktemplates
+2016-02-19 03:14:22...creating table am_tasktemplates
+2016-02-19 03:14:22...creating Relationship Meta for AM_TaskTemplates
+2016-02-19 03:14:22...processing table favorites
+2016-02-19 03:14:22...creating table favorites
+2016-02-19 03:14:22...creating Relationship Meta for Favorites
+2016-02-19 03:14:22...processing table aok_knowledge_base_categories
+2016-02-19 03:14:22...creating table aok_knowledge_base_categories
+2016-02-19 03:14:22...creating Relationship Meta for AOK_Knowledge_Base_Categories
+2016-02-19 03:14:22...processing table aok_knowledgebase
+2016-02-19 03:14:23...creating table aok_knowledgebase
+2016-02-19 03:14:23...creating Relationship Meta for AOK_KnowledgeBase
+2016-02-19 03:14:23...processing table reminders
+2016-02-19 03:14:23...creating table reminders
+2016-02-19 03:14:23...creating Relationship Meta for Reminder
+2016-02-19 03:14:23...processing table reminders_invitees
+2016-02-19 03:14:23...creating table reminders_invitees
+2016-02-19 03:14:23...creating Relationship Meta for Reminder_Invitee
+2016-02-19 03:14:23...processing table fp_events
+2016-02-19 03:14:23...creating table fp_events
+2016-02-19 03:14:23...creating Relationship Meta for FP_events
+2016-02-19 03:14:23...processing table fp_event_locations
+2016-02-19 03:14:23...creating table fp_event_locations
+2016-02-19 03:14:23...creating Relationship Meta for FP_Event_Locations
+2016-02-19 03:14:23...processing table aod_indexevent
+2016-02-19 03:14:23...creating table aod_indexevent
+2016-02-19 03:14:23...creating Relationship Meta for AOD_IndexEvent
+2016-02-19 03:14:23...processing table aod_index
+2016-02-19 03:14:23...creating table aod_index
+2016-02-19 03:14:23...creating Relationship Meta for AOD_Index
+2016-02-19 03:14:24...processing table aop_case_events
+2016-02-19 03:14:24...creating table aop_case_events
+2016-02-19 03:14:24...creating Relationship Meta for AOP_Case_Events
+2016-02-19 03:14:24...processing table aop_case_updates
+2016-02-19 03:14:24...creating table aop_case_updates
+2016-02-19 03:14:24...creating Relationship Meta for AOP_Case_Updates
+2016-02-19 03:14:24...processing table aor_reports
+2016-02-19 03:14:24...creating table aor_reports
+2016-02-19 03:14:24...creating Relationship Meta for AOR_Report
+2016-02-19 03:14:24...processing table aor_fields
+2016-02-19 03:14:24...creating table aor_fields
+2016-02-19 03:14:24...creating Relationship Meta for AOR_Field
+2016-02-19 03:14:24...processing table aor_charts
+2016-02-19 03:14:24...creating table aor_charts
+2016-02-19 03:14:24...creating Relationship Meta for AOR_Chart
+2016-02-19 03:14:24...processing table aor_conditions
+2016-02-19 03:14:24...creating table aor_conditions
+2016-02-19 03:14:24...creating Relationship Meta for AOR_Condition
+2016-02-19 03:14:24...processing table aor_scheduled_reports
+2016-02-19 03:14:24...creating table aor_scheduled_reports
+2016-02-19 03:14:24...creating Relationship Meta for AOR_Scheduled_Reports
+2016-02-19 03:14:24...processing table aos_contracts
+2016-02-19 03:14:24...creating table aos_contracts
+2016-02-19 03:14:24...creating Relationship Meta for AOS_Contracts
+2016-02-19 03:14:24...processing table aos_invoices
+2016-02-19 03:14:25...creating table aos_invoices
+2016-02-19 03:14:25...creating Relationship Meta for AOS_Invoices
+2016-02-19 03:14:25...processing table aos_pdf_templates
+2016-02-19 03:14:25...creating table aos_pdf_templates
+2016-02-19 03:14:25...creating Relationship Meta for AOS_PDF_Templates
+2016-02-19 03:14:25...processing table aos_product_categories
+2016-02-19 03:14:25...creating table aos_product_categories
+2016-02-19 03:14:25...creating Relationship Meta for AOS_Product_Categories
+2016-02-19 03:14:25...processing table aos_products
+2016-02-19 03:14:25...creating table aos_products
+2016-02-19 03:14:25...creating Relationship Meta for AOS_Products
+2016-02-19 03:14:25...processing table aos_products_quotes
+2016-02-19 03:14:25...creating table aos_products_quotes
+2016-02-19 03:14:25...creating Relationship Meta for AOS_Products_Quotes
+2016-02-19 03:14:25...processing table aos_line_item_groups
+2016-02-19 03:14:25...creating table aos_line_item_groups
+2016-02-19 03:14:25...creating Relationship Meta for AOS_Line_Item_Groups
+2016-02-19 03:14:25...processing table aos_quotes
+2016-02-19 03:14:25...creating table aos_quotes
+2016-02-19 03:14:25...creating Relationship Meta for AOS_Quotes
+2016-02-19 03:14:25...processing table aow_actions
+2016-02-19 03:14:25...creating table aow_actions
+2016-02-19 03:14:25...creating Relationship Meta for AOW_Action
+2016-02-19 03:14:25...processing table aow_workflow
+2016-02-19 03:14:26...creating table aow_workflow
+2016-02-19 03:14:26...creating Relationship Meta for AOW_WorkFlow
+2016-02-19 03:14:26...processing table aow_processed
+2016-02-19 03:14:26...creating table aow_processed
+2016-02-19 03:14:26...creating Relationship Meta for AOW_Processed
+2016-02-19 03:14:26...processing table aow_conditions
+2016-02-19 03:14:26...creating table aow_conditions
+2016-02-19 03:14:26...creating Relationship Meta for AOW_Condition
+2016-02-19 03:14:26...processing table jjwg_maps
+2016-02-19 03:14:26...creating table jjwg_maps
+2016-02-19 03:14:26...creating Relationship Meta for jjwg_Maps
+2016-02-19 03:14:26...processing table jjwg_markers
+2016-02-19 03:14:26...creating table jjwg_markers
+2016-02-19 03:14:26...creating Relationship Meta for jjwg_Markers
+2016-02-19 03:14:26...processing table jjwg_areas
+2016-02-19 03:14:26...creating table jjwg_areas
+2016-02-19 03:14:26...creating Relationship Meta for jjwg_Areas
+2016-02-19 03:14:26...processing table jjwg_address_cache
+2016-02-19 03:14:27...creating table jjwg_address_cache
+2016-02-19 03:14:27...creating Relationship Meta for jjwg_Address_Cache
+2016-02-19 03:14:27...processing table calls_reschedule
+2016-02-19 03:14:27...creating table calls_reschedule
+2016-02-19 03:14:27...creating Relationship Meta for Calls_Reschedule
+2016-02-19 03:14:27...processing table securitygroups
+2016-02-19 03:14:27...creating table securitygroups
+2016-02-19 03:14:27...creating Relationship Meta for SecurityGroup
+2016-02-19 03:14:29...Begin creating Defaults
+2016-02-19 03:14:29...insert defaults into config table
+2016-02-19 03:14:29...Creating default users
+2016-02-19 03:14:29...Creating default scheduler jobs
+2016-02-19 03:14:29...Enable SugarFeeds
+2016-02-19 03:14:29...Installation has completed *********
+2016-02-19 03:14:36...populating the db with seed data
+2016-02-19 03:14:36...Save configuration settings..
+2016-02-19 03:14:36...save locale
+2016-02-19 03:14:36...new Administration
+2016-02-19 03:14:36...retrieveSettings
+2016-02-19 03:14:36...AdminWizard OFF
+2016-02-19 03:14:36...saveConfig
+2016-02-19 03:14:37...new Configurator
+2016-02-19 03:14:37...populateFromPost
+2016-02-19 03:14:37...handleOverride
+2016-02-19 03:14:37...saveConfig
+2016-02-19 03:14:37...new Currency
+2016-02-19 03:14:37...retrieve
+2016-02-19 03:14:37...DBG: save currency
+2016-02-19 03:14:37...Save user settings..
+2016-02-19 03:14:37...DBG: SugarThemeRegistry::getDefault
+2016-02-19 03:14:37...DBG: require modules/Users/Save.php
