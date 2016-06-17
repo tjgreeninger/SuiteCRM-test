@@ -95,4 +95,5 @@
       ),
     ),
   ),
+  'custom_fields' => false,
 );

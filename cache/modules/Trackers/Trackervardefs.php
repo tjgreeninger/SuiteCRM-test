@@ -190,4 +190,5 @@
       'relationship_type' => 'one-to-one',
     ),
   ),
+  'custom_fields' => false,
 );

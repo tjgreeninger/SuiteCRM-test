@@ -1,5 +1,5 @@
 <?php 
-
+echo "hello world";
 require_once('include/SugarPHPMailer.php'); 
 
 $emailObj = new Email(); 
