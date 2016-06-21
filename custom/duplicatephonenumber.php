@@ -54,7 +54,7 @@ $session = $result->id;
 
 $fields_array = array('first_name','last_name','phone_work','phone_mobile');
 
-$query_variable = "phone_work = '$query' OR phone_mobile = '$query'"; 
+$query_variable = "phone_work = '$query' OR phone_mobile = '$query'";
 
 
 print_r ($query_variable);
@@ -69,7 +69,7 @@ $parameters = array(
     'offset'  => 0,                                               //offset
     'select_fields' => $fields_array,                      //select_fields
     'link_name_to_fields_array' => array(array()),//optional
-    'max_results' => 15,                                        //max results                 
+    'max_results' => 15,                                        //max results
     'deleted' => 'false',                                        //deleted
 );
 $json = json_encode($parameters);
@@ -176,7 +176,7 @@ $parameters = array(
     'offset'  => 0,                                               //offset
     'select_fields' => $fields_array,                      //select_fields
     'link_name_to_fields_array' => array(array()),//optional
-    'max_results' => 15,                                        //max results                 
+    'max_results' => 15,                                        //max results
     'deleted' => 'false',                                        //deleted
 );
 
@@ -193,14 +193,14 @@ $response = curl_exec($curl);
 
 // Convert the result from JSON format to a PHP array
 $result = json_decode($response);
-print "<pre>"; 
+print "<pre>";
 //print_r ($result);
 $i = 0;
 while ($i < 20) {
 	$phonenumber_work = $result->entry_list[$i]->name_value_list->phone_work->value;
 	$phonenumber_mobile = $result->entry_list[$i]->name_value_list->phone_mobile->value;
-	$phonenumber_home = $result->entry_list[$i]->name_value_list->phone_home->value; 
-		if (!empty($phonenumber_mobile)) { $all_phone_numbers[] = $phonenumber_mobile; }    
+	$phonenumber_home = $result->entry_list[$i]->name_value_list->phone_home->value;
+		if (!empty($phonenumber_mobile)) { $all_phone_numbers[] = $phonenumber_mobile; }
 		if (!empty($phonenumber_home)) { $all_phone_numbers[] = $phonenumber_home; }
                 if (!empty($phonenumber_work)) { $all_phone_numbers[] = $phonenumber_work; }
 	$phone_number_stripped = preg_replace("/[^0-9]/","", $all_phone_numbers);
@@ -240,12 +240,12 @@ while ($i < 20) {
 }
 //print_r($contact_array);
 
-	
+
 $noduplicates1 = array_unique($all_phone_numbers);
 $duplicates1 = array_diff_assoc($all_phone_numbers, $noduplicates1);
 
 foreach ($duplicates1 as $value) {
-	$query[] = $value;	
+	$query[] = $value;
 }
 //foreach ($almostquery as $value) {
 //	$query[] = ("'" . $value . "'");
